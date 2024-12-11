@@ -1,1 +1,4 @@
+Pillow==9.5.0
+exifread==3.0.3
+colorama==0.4.6
 
